@@ -20,6 +20,6 @@ A simple personal portfolio built with plain HTML and CSS, featuring an About se
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/ezgna/exam_ryo_suzuki.git
 
 2. Open the index.html in your browser
